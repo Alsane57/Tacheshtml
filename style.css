@@ -1,0 +1,214 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/cmr.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    height: 470px;
+    background-position: center;
+    padding-top: 30px;
+}
+.div1{
+    background-color: darkorange;
+    padding: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+.cv a{
+    float: right;
+    margin-right: 120px;
+    background-color: darkorange;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.cv a:hover {
+    color: white;
+    margin-top: 5px;
+}
+a:hover{
+    margin-bottom: 5px;
+    color: orange;
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section1 div{
+    padding-top: 100px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+    width: 650px;
+    z-index: 1;
+}
+.section1 img{
+    height: 200px;
+    position: absolute;
+    border-radius: 100px;
+    top: 200px;
+    left: 600px;
+    z-index: 2;
+}
+.para{
+    color: orange;
+}
+em{
+    font-size: 20px;
+}
+.section2{
+    margin-top: 50px;
+}
+
+.section2 p{
+    color: grey;
+}
+.section2 a{
+    color: grey;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.section2 .lien1{
+    text-align: center;
+    font-size: x-large;
+}
+.section2 img{
+    padding: 5px;
+}
+.images{
+    display: flex;
+    margin-top: 50px;
+}
+.images-1{
+    display: flex;
+}
+.port7{
+    height: 500px;
+}
+.lien1 a:hover{
+    color: orange;
+}
+.pourc{
+    display: flex;
+    float: right;
+} 
+.pourc1 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    position: relative;
+    z-index: 2;   
+}
+.div3{
+    margin-top: 80px;
+}
+.About{
+    float: left;
+    padding-right: 200px;
+    margin-left: 100px;
+}
+.pourc{
+    clip: rect(0px, 150px, 150px, 75px);
+}
+.section4{
+    margin-top: 23%;
+    background-color: rgb(45, 6, 72);
+    color: white;
+}
+.div4{
+    padding-top: 80px;
+    display: flex;
+    padding-bottom: 70px;
+}
+.pp{
+    margin-left: 100px;
+}
+.pp p{
+    color: gray;
+}
+.div{
+    padding-left: 180px;
+}
+h4{
+    color: orange;
+}
+.text1 p{
+    color: gray;
+}
+.div p{
+    padding-bottom: 20px;
+}
+.vide1 ,.vide2, .vide3, .vide4{
+    border: 5px solid orange;
+    border-radius: 10px;
+    width: 50px;
+}
+li{
+    padding-bottom: 5px;
+}
+.div5{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.div5 p{
+    color: gray;
+}
+.sec5{
+    margin-right: 200px;
+    padding-top: 10px;
+}
+.div5 p{
+    padding-bottom: 40px;
+    font-size: 18px;
+}
+.section6{
+    margin-top: 20px;
+    background-image: url(images/kiroi1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px;
+    height: 200px;
+}
+.div-6{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding-top: 45px;
+}
+.div-6 h1{
+    font-size: 50px;
+}
+.div-6 p{
+    padding-top: 40px;
+    padding-left: 10px;
+}
+.h13 , .Clients , .p311 , .finis{
+    display: flex;
+}
+footer{
+    background-color: rgb(45, 6, 72);
+    color: grey;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+}
+.foot a{
+    text-decoration: none;
+    color: grey;
+}
+.lien{
+    margin-top: 16px;
+    margin-left: 5px;
+}
+.foot a:hover{
+    color: orange;
+}
